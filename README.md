@@ -1,29 +1,24 @@
 <!-- BANNER TOPO -->
-<div align="center">
-  <img src="./encruzilhada.gif" alt="Hollow Knight Crossroads" width="100%">
-</div>
+<img src="./encruzilhada.gif" alt="Hollow Knight Crossroads" width="100%">
 
 ###
 
-<!-- APRESENTAÇÃO -->
+<!-- APRESENTAÇÃO (CENTRALIZADO) -->
 <div align="center">
-  <img src="./hollowknight.gif" alt="Hollow Knight Avatar" width="120">
-  <h1>Hey 👋 What's up?</h1>
+  <h1>Hey 👋 What's up? <img src="./hollowknight.gif" alt="Hollow Knight Avatar" width="60"></h1>
   <p>My name is João Victor and I'm 16 years old, from Brazil.</p>
 </div>
 
 ###
 
-<!-- SOBRE MIM -->
-<h2 align="center">About me</h2>
-<div align="center">
-  <p>✨ Creating bugs since I was 13 years old</p>
-  <p>✨ Being one with my own code</p>
-</div>
+<!-- SOBRE MIM (ALINHADO À ESQUERDA) -->
+<h2>About me</h2>
+<p>✨ Creating bugs since I was 13 years old</p>
+<p>✨ Being one with my own code</p>
 
 ###
 
-<!-- LINGUAGENS -->
+<!-- LINGUAGENS (CENTRALIZADO) -->
 <h2 align="center">My Languages</h2>
 <div align="center">
     <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -35,9 +30,9 @@
 
 ###
 
-<!-- ESTATÍSTICAS -->
-<h2 align="center">Statistics ⚒️</h2>
-<div align="center">
+<!-- ESTATÍSTICAS (ALINHADO À ESQUERDA) -->
+<h2>Statistics ⚒️</h2>
+<div>
     <img src="https://github-readme-stats-cqp5-sirceu.vercel.app/api?username=jvop-victor&show_icons=true&theme=radical&v=1" alt="GitHub Statistics" height="180" />
     <img src="https://github-readme-stats-cqp5-sirceu.vercel.app/api/top-langs/?username=jvop-victor&layout=compact&theme=radical&v=1" alt="Top Languages" height="180" />
 </div>
@@ -45,17 +40,13 @@
 ###
 
 <!-- BANNER DIVISOR -->
-<div align="center">
-  <img src="./hornet.gif" alt="Hollow Knight Bench" width="100%">
-</div>
+<img src="./hornet.gif" alt="Hollow Knight Bench" width="100%">
 
 ###
 
-<!-- COBRINHA -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jvop-victor/jvop-victor/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jvop-victor/jvop-victor/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jvop-victor/jvop-victor/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<!-- COBRINHA (ALINHADO À ESQUERDA) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jvop-victor/jvop-victor/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jvop-victor/jvop-victor/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jvop-victor/jvop-victor/output/github-contribution-grid-snake.svg">
+</picture>
